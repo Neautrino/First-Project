@@ -179,8 +179,8 @@ p {
 
 }
 .image{
-    height: 80%;
-    width: 35%;
+    height: 80vh;
+    width: 35vw;
     position: absolute;
     bottom: 5vh;
     left: 37vw;
